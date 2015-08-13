@@ -3,5 +3,7 @@ Welcome to the best bread website!
 - Here is a list of breads...
 
 - Ingredients (bugfix)
+
 New features done by Team A
 
+Complete features added by Team A
